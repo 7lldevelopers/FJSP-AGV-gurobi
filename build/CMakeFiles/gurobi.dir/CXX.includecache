@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qill/C++/贝叶斯分类器/gurobi/main.cpp
+gurobi_c++.h
+/home/qill/C++/贝叶斯分类器/gurobi/gurobi_c++.h
+algorithm
+-
+thread
+-
+mutex
+-
+vector
+-
+future
+-
+
+/home/qill/gurobi1001/linux64/include/gurobi_c++.h
+iostream
+-
+vector
+-
+string
+-
+gurobi_c.h
+/home/qill/gurobi1001/linux64/include/gurobi_c.h
+
+/home/qill/gurobi1001/linux64/include/gurobi_c.h
+stdio.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/gurobi.dir/main.cpp.o  -o gurobi   -L/home/qill/gurobi1001/linux64/lib  -Wl,-rpath,/home/qill/gurobi1001/linux64/lib /home/qill/gurobi1001/linux64/lib/libgurobi_c++.a -lgurobi100 

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/qill/C++/贝叶斯分类器/gurobi/build",
+  "command": "/usr/bin/g++   -I/home/qill/gurobi1001/linux64/include  -g   -o CMakeFiles/gurobi.dir/main.cpp.o -c /home/qill/C++/贝叶斯分类器/gurobi/main.cpp",
+  "file": "/home/qill/C++/贝叶斯分类器/gurobi/main.cpp"
+}
+]

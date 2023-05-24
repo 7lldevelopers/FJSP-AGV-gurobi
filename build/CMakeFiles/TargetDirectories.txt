@@ -1,0 +1,3 @@
+/home/qill/C++/贝叶斯分类器/gurobi/build/CMakeFiles/rebuild_cache.dir
+/home/qill/C++/贝叶斯分类器/gurobi/build/CMakeFiles/edit_cache.dir
+/home/qill/C++/贝叶斯分类器/gurobi/build/CMakeFiles/gurobi.dir
